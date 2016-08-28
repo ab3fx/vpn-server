@@ -1,0 +1,4 @@
+strongswan
+libstrongswan-standard-plugins
+libstrongswan-extra-plugins
+libcharon-extra-plugins
